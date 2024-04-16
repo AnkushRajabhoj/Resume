@@ -1,0 +1,43 @@
+* {
+    font-family: "Montserrat", sans-serif;
+}
+.hero {
+    border-bottom: 1px solid #0bb5f4;
+    margin-bottom: 1rem;
+}
+.name {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+.position {
+    font-weight: 600;
+}
+.slead {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #0bb5f4;
+}
+.cname {
+    font-weight: 600;
+}
+.tname {
+    font-weight: 400;
+}
+i { 
+    color: #0bb5f4;
+}
+a, a:link, a:visited, a:hover, a:active  {
+    text-decoration: none;
+}
+.sname{
+    display: inline;
+}
+.scategory {
+    display: inline-block;
+    width: 25%;
+}
+@media print {
+    .container {
+        width: 25.92cm;
+    }
+}
