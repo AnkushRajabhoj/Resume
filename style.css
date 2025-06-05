@@ -15,7 +15,7 @@
 .slead {
     font-size: 1.1rem;
     font-weight: 600;
-    color: #F61329;
+    color: #003366;
 }
 .cname {
     font-weight: 600;
@@ -24,7 +24,7 @@
     font-weight: 400;
 }
 i { 
-    color: #F61329;
+    color: #003366;
 }
 a, a:link, a:visited, a:hover, a:active  {
     text-decoration: none;
