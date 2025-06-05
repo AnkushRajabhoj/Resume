@@ -2,7 +2,7 @@
     font-family: "Montserrat", sans-serif;
 }
 .hero {
-    border-bottom: 1px solid #F61329;
+    border-bottom: 1px solid #1F4E79;
     margin-bottom: 1rem;
 }
 .name {
@@ -15,7 +15,7 @@
 .slead {
     font-size: 1.1rem;
     font-weight: 600;
-    color: #003366;
+    color: #1F4E79;
 }
 .cname {
     font-weight: 600;
@@ -24,7 +24,7 @@
     font-weight: 400;
 }
 i { 
-    color: #003366;
+    color: #1F4E79;
 }
 a, a:link, a:visited, a:hover, a:active  {
     text-decoration: none;
