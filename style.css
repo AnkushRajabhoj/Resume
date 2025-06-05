@@ -39,6 +39,6 @@ a, a:link, a:visited, a:hover, a:active  {
 }
 @media print {
     .container {
-        width: 35cm;
+        width: 29.7cm;
     }
 }
