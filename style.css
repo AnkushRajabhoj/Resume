@@ -37,8 +37,8 @@ a, a:link, a:visited, a:hover, a:active  {
     display: inline-block;
     padding-inline: 1em;
 }
-/* @media print {
+@media print {
     .container {
-        width: 25.92cm;
+        width: 35cm;
     }
-} */
+}
